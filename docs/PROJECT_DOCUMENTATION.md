@@ -1,8 +1,8 @@
- Land Stack — Project Documentation
+Smart Bhumi — Project Documentation
 
 ## 1. Project Overview
 
-Land Stack is a digital platform designed to bring important land-related information together in one place.
+Smart Bhumi is a digital platform designed to bring important land-related information together in one place.
 
 ## 2. Problem Statement
 
@@ -10,7 +10,7 @@ Land information can be spread across different systems, making it difficult for
 
 ## 3. Our Solution
 
-Land Stack combines parcel search, land information and GIS-based visualization into a single platform.
+Smart Bhumi combines parcel search, land information and GIS-based visualization into a single platform.
 
 ## 4. Objectives
 
@@ -31,44 +31,45 @@ Land Stack combines parcel search, land information and GIS-based visualization 
 
 ## 6. Technology Stack
 
-- Frontend: To be updated
-- Backend: To be updated
-- Database: To be updated
-- GIS: To be updated
-- Blockchain: To be updated
+- Frontend: 
+- Backend: 
+- Database: 
+- GIS: 
+- Blockchain: 
+
 ## 7 System Architecture
 
-To be added after the final architecture is confirmed.
+
 
 ## 8. Backend
 
-Backend developed by Atreesh.
 
-Details and API documentation will be added after the final backend is integrated.
 
 ## 9. Frontend
 
-Frontend developed by Bhavesh.
 
-Details will be added after the final prototype is completed.
 
 ## 10. Prototype
 
-Prototype link: To be added
+Prototype link: 
 
 ## 11. Presentation
 
-Presentation: To be added
+Presentation: 
 
 ## 12. Testing
 
-Testing will be performed on the major features before final submission.
+
 
 ## 13. Team Contributions
 
 - Atreesh — Backend
 - Bhavesh — Frontend
-- Other team members — To be updated
+- Khusboo
+- Riya Rana
+- Aashita
+- Yojit pandey 
+
 
  ## 14. Future Scope
 
