@@ -49,7 +49,8 @@ Land Data + GIS + Blockchain
 
 
 #Team
-Bhavesh Chauhan ( team leader)
+
+ Bhavesh Chauhan ( team leader)
  Atreesh 
  Aashita
  khusboo 
