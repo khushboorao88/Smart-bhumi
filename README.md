@@ -38,8 +38,8 @@ Land Data + GIS + Blockchain
 - Frontend: HTML/CSS / Java
 - Backend: Flask/Python
 - GIS: 
-- Blockchain: [your technology]
-- Database: [your technology]
+- Blockchain:
+- Database: 
 
  Prototype
  
@@ -55,6 +55,7 @@ Team
  Aashita
  khusboo 
  Riya rana 
+ Yojit pandey
 
 Future Scope
 
