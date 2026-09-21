@@ -1,19 +1,19 @@
-# Smart-bhumi
+ Smart-bhumi
 An integrated GIS-based digital platform for land governance.
 
-#Problem
+Problem
 
 Land information is often spread across different systems.
 This makes it difficult to access parcel information, maps,
 ownership records and transaction history in one place.
 
- #Our Solution
+ Our Solution
 
 Land Stack brings these land-related services together
 through one digital platform with parcel search, GIS
 visualization and traceable land records.
 
- #Key Features
+ Key Features
 
 - Search land parcels
 - View parcel information
@@ -23,7 +23,7 @@ visualization and traceable land records.
 - Blockchain-based record tracking
 - REST API integration
 
-#How It Works
+How It Works
 
 User
 ↓
@@ -33,7 +33,7 @@ Backend API
 ↓
 Land Data + GIS + Blockchain
 
-# Tech Stack
+  Tech Stack
 
 - Frontend: HTML/CSS / Java
 - Backend: Flask/Python
@@ -41,14 +41,14 @@ Land Data + GIS + Blockchain
 - Blockchain: [your technology]
 - Database: [your technology]
 
-# Prototype
+ Prototype
  
 
-#Presentations
+Presentations
 
 
 
-#Team
+Team
 
  Bhavesh Chauhan ( team leader)
  Atreesh 
@@ -56,7 +56,7 @@ Land Data + GIS + Blockchain
  khusboo 
  Riya rana 
 
-#Future Scope
+Future Scope
 
 - Government data integration
 - ULPIN integration
